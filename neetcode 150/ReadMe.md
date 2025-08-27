@@ -1,8 +1,9 @@
 ### Shaun Pimenta's Neetcode 150 journey
 ---
 
-## 1 / 150
+## 2 / 150
 
 | No. | Problem           |
-|:---:|:-----------------:|| 1 | duplicate-integer |
-| 1 | is-anagram |
+|:---:|:-----------------:|
+| 1 | duplicate-integer |
+| 2 | is-anagram |
