@@ -1,7 +1,7 @@
 ### Shaun Pimenta's Neetcode 150 journey
 ---
 
-## 5 / 150
+## 6 / 150
 
 | No. | Problem           |
 |:---:|:-----------------:|
@@ -10,3 +10,4 @@
 | 3 | two-integer-sum |
 | 4 | anagram-groups |
 | 5 | top-k-elements-in-list |
+| 6 | top-k-elements-in-list |
