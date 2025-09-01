@@ -1,7 +1,7 @@
 ### Shaun Pimenta's Neetcode 150 journey
 ---
 
-## 7 / 150
+## 8 / 150
 
 | No. | Problem           |
 |:---:|:-----------------:|
@@ -12,3 +12,4 @@
 | 5 | top-k-elements-in-list |
 | 6 | top-k-elements-in-list |
 | 7 | longest-consecutive-sequence |
+| 8 | is-palindrome |
