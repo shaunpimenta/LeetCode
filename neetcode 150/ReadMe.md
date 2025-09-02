@@ -1,7 +1,7 @@
 ### Shaun Pimenta's Neetcode 150 journey
 ---
 
-## 10 / 150
+## 11 / 150
 
 | No. | Problem           |
 |:---:|:-----------------:|
@@ -15,3 +15,4 @@
 | 8 | is-palindrome |
 | 9 | two-integer-sum-ii |
 | 10 | max-water-container |
+| 11 | buy-and-sell-crypto |
