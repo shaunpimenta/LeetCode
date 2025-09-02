@@ -1,7 +1,7 @@
 ### Shaun Pimenta's Neetcode 150 journey
 ---
 
-## 11 / 150
+## 13 / 150
 
 | No. | Problem           |
 |:---:|:-----------------:|
@@ -16,3 +16,5 @@
 | 9 | two-integer-sum-ii |
 | 10 | max-water-container |
 | 11 | buy-and-sell-crypto |
+| 12 | trapping-rain-water |
+| 13 | trapping-rain-water |
