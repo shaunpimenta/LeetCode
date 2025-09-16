@@ -1,7 +1,7 @@
 ### Shaun Pimenta's Neetcode 150 journey
 ---
 
-## 16 / 150
+## 17 / 150
 
 | No. | Problem           |
 |:---:|:-----------------:|
@@ -21,3 +21,4 @@
 | 14 | longest-substring-without-duplicates |
 | 15 | permutation-string |
 | 16 | validate-parentheses |
+| 17 | string-encode-and-decode |
