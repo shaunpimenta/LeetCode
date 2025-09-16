@@ -1,7 +1,7 @@
 ### Shaun Pimenta's Neetcode 150 journey
 ---
 
-## 14 / 150
+## 16 / 150
 
 | No. | Problem           |
 |:---:|:-----------------:|
@@ -19,3 +19,5 @@
 | 12 | trapping-rain-water |
 | 13 | trapping-rain-water |
 | 14 | longest-substring-without-duplicates |
+| 15 | permutation-string |
+| 16 | validate-parentheses |
