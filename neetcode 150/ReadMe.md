@@ -1,7 +1,7 @@
 ### Shaun Pimenta's Neetcode 150 journey
 ---
 
-## 19 / 150
+## 20 / 150
 
 | No. | Problem           |
 |:---:|:-----------------:|
@@ -24,3 +24,4 @@
 | 17 | string-encode-and-decode |
 | 18 | products-of-array-discluding-self |
 | 19 | valid-sudoku |
+| 20 | three-integer-sum |
