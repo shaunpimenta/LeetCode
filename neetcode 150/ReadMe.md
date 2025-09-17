@@ -1,7 +1,7 @@
 ### Shaun Pimenta's Neetcode 150 journey
 ---
 
-## 18 / 150
+## 19 / 150
 
 | No. | Problem           |
 |:---:|:-----------------:|
@@ -23,3 +23,4 @@
 | 16 | validate-parentheses |
 | 17 | string-encode-and-decode |
 | 18 | products-of-array-discluding-self |
+| 19 | valid-sudoku |
