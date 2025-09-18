@@ -1,7 +1,7 @@
 ### Shaun Pimenta's Neetcode 150 journey
 ---
 
-## 18 / 150
+## 20 / 150
 
 | No. | Problem           |
 |:---:|:-----------------:|
@@ -23,3 +23,5 @@
 | 16 | products-of-array-discluding-self |
 | 17 | valid-sudoku |
 | 18 | three-integer-sum |
+| 19 | longest-repeating-substring-with-replacement |
+| 20 | daily-temperatures |
