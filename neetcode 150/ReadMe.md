@@ -1,7 +1,7 @@
 ### Shaun Pimenta's Neetcode 150 journey
 ---
 
-## 20 / 150
+## 23 / 150
 
 | No. | Problem           |
 |:---:|:-----------------:|
@@ -25,3 +25,4 @@
 | 18 | three-integer-sum |
 | 19 | longest-repeating-substring-with-replacement |
 | 20 | daily-temperatures |
+| 21 | binary-search |
